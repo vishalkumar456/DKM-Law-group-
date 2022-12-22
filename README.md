@@ -1,7 +1,8 @@
 # DKM-Law-group
-This is a PHP project of  Aptech Student 3rd semester ACCP-PRIME
+This is Based on HTML, CSS, JS, PHP
+# Types of Users
+<h2> Admin</h2>
+<h2> Lawyer</h2>
+<h2> Customer</h2>
 
-Features:
-Can ADD,EDIT,DELETE Lawyer
-user Login/signup
 
