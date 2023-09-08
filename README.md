@@ -9,8 +9,13 @@ I created the web application DKM Law Group, which was based on core PHP and rec
 - lawyer filters
 - appointment booking
 - different dashboard for admin and lawyers 
-  
 
+  
+## Screenshots
+
+![DKM_homepage](https://github.com/vishalmakhiijani/DKM-Law-group/assets/59371369/ca8b6a67-f97e-4d31-873d-71bf72d17bcc)
+
+![DKM_lawyers](https://github.com/vishalmakhiijani/DKM-Law-group/assets/59371369/5504d373-f80e-4a53-ac35-c3ec0689a61d)
 
 
 ## Installation
