@@ -13,6 +13,25 @@ I created the web application DKM Law Group, which was based on core PHP and rec
 
 
 
+## Installation
+
+Clone the repo locally:
+
+```
+git clone https://github.com/vishalmakhiijani/DKM-Law-group.git
+```
+
+Create MYSQL Database
+```
+CREATE DATABASE dkm
+```
+Upload dkm.sql to MYSQL Database
+
+then Run the project
+```
+http://localhost/dkm/
+```
+    
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript
