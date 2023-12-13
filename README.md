@@ -29,6 +29,7 @@ git clone https://github.com/vishalmakhiijani/DKM-Law-group.git
 Create MYSQL Database
 ```
 CREATE DATABASE dkm
+#upload DB file to xammpp
 ```
 Upload dkm.sql to MYSQL Database
 
