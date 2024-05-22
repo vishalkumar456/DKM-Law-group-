@@ -54,3 +54,7 @@ If you have any feedback, please reach out to us at VishalMakhijani@pm.me
 
 - [@Vishal Makhijani](https://www.github.com/vishalmakhiijani)
 
+
+## Support This Project
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6STWW3)
+
